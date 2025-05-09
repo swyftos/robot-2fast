@@ -42,14 +42,6 @@ Concevoir une voiture intelligente capable de :
 
 ---
 
-## 🧪 Prochaines étapes
-
-- Intégrer les modes de communication dans un seul sketch
-- Ajouter des fonctionnalités secondaires (ex : évitement d’obstacles ?)
-- Optimiser la gestion de l’alimentation
-- Nettoyage et documentation du code
-
----
 
  📌 Avertissement
 
