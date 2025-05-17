@@ -22,14 +22,14 @@ void setup() {
   // Sens moteur A : avant
   digitalWrite(IN1, HIGH);
   digitalWrite(IN2, LOW);
-  analogWrite(ENA, 200);  // Vitesse moteur A
+  analogWrite(ENA, 200);  // Vitesse 
 
-  // Sens moteur B : avant (même que A)
+  // Sens moteur B : avant 
   digitalWrite(IN3, HIGH);
   digitalWrite(IN4, LOW);
-  analogWrite(ENB, 200);  // Vitesse moteur B
+  analogWrite(ENB, 200);  // Vitesse 
 }
 
 void loop() {
-  // Rien ici : les deux moteurs tournent en continu
+  
 }
