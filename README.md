@@ -35,9 +35,9 @@ Concevoir une voiture intelligente capable de :
  🔄 Fonctionnalités prévues
 
 - **[✓] Pilotage indépendant des moteurs**
-- **[✓] Suivi de lumière avec logique directionnelle**
-- **[🟡] Transmission Bluetooth des données vers un téléphone**
-- **[🟡] Alternative Wi-Fi vers un serveur ou interface web**
+- **[🔜] Suivi de lumière avec logique directionnelle**
+- **[🔜] Transmission Bluetooth des données vers un téléphone**
+- **[🔜] Alternative Wi-Fi vers un serveur ou interface web**
 - **[🔜] Fusion complète des modules dans un programme unique**
 
 ---
