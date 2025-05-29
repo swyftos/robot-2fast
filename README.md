@@ -8,7 +8,7 @@
 
 Concevoir une voiture intelligente capable de :
 
-- 🔁 **Faire tourner les 4 roues** indépendamment grâce à 4 moteurs DC.
+- 🔁 **Faire tourner les 4 roues** indépendamment grâce à 4 moteurs .
 - 🌞 **Détecter et suivre une source lumineuse** automatiquement (mode autonome).
 - 📡 **Transmettre les informations lues** par l’Arduino vers un **téléphone**.
   
