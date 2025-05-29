@@ -11,9 +11,7 @@ Concevoir une voiture intelligente capable de :
 - 🔁 **Faire tourner les 4 roues** indépendamment grâce à 4 moteurs DC.
 - 🌞 **Détecter et suivre une source lumineuse** automatiquement (mode autonome).
 - 📡 **Transmettre les informations lues** par l’Arduino vers un **téléphone**, en utilisant soit :
-  - un module **Bluetooth (HC-05/HC-06)** pour un affichage direct via terminal,
-  - ou un module **Wi-Fi (ESP8266)** pour envoyer les données vers un serveur consultable via navigateur.
-
+  
 ---
 
  🛠️ Matériel utilisé
@@ -23,12 +21,10 @@ Concevoir une voiture intelligente capable de :
 | Arduino Mega 2560        | 1        | Cerveau principal du projet                    |
 | Moteurs DC               | 4        | Propulsion de chaque roue                      |
 | L298N / L293D            | 2        | Ponts en H pour piloter les moteurs            |
-| Cellules LDR             | 2        | Détection de lumière (avant gauche/droite)    |
+| photo résistances LDR    | 2| Détection de lumière (avant gauche/droite)    |
 | Résistances 10kΩ         | 2        | Pull-down pour les LDR                         |
-| Module HC-05 / HC-06     | 1        | Communication Bluetooth (option A)             |
-| Module ESP8266 (ESP-01)  | 1        | Communication Wi-Fi (option B)                 |
 | Alimentation externe     | 1        | Fournir assez de courant pour les moteurs      |
-| Châssis + Roues + Fils   | -        | Structure de la voiture                        |
+| Châssis + Roues + Fils   | -        | ( voir lien)                                   |
 
 ---
 
