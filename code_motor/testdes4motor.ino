@@ -4,9 +4,9 @@ const int IN1 = 3;  // IN1
 const int IN2 = 4;  // IN2
 
 // Moteur B
-const int ENB = 7;  // Enable B (PWM)
+const int ENB = 5;  // Enable B (PWM)
 const int IN3 = 6;  // IN3
-const int IN4 = 5;  // IN4
+const int IN4 = 7;  // IN4
 
 //moteur C
 const int ENC= 10; // (pwn)
