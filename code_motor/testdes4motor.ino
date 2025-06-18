@@ -63,5 +63,5 @@ void setup() {
 }
 
 void loop() {
-  // Rien ici : les deux moteurs tournent en continu
+  // Rien ici : les deux moteurs tournent en contin
 }
