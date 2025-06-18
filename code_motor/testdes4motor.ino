@@ -9,9 +9,9 @@ const int IN3 = 6;  // IN3
 const int IN4 = 7;  // IN4
 
 //moteur C
-const int ENC= 10; // (pwn)
+const int ENC= 8; // (pwn)
 const int IN5 = 9;
-const int IN6 = 8;
+const int IN6 = 10;
 
 //moteur D
 const int END = 11; //pwn
