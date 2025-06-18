@@ -19,7 +19,7 @@ Concevoir une voiture intelligente capable de :
 | Composant                 | Quantité | Rôle                                           |
 |--------------------------|----------|------------------------------------------------|
 | Arduino Mega 2560        | 1        | Cerveau principal du projet                    |
-| Moteurs DC               | 4        | Propulsion de chaque roue                      |
+| Moteurs DG01D            | 4        | Propulsion de chaque roue                      |
 | L298N / L293D            | 2        | Ponts en H pour piloter les moteurs            |
 | photo résistances LDR    | 2| Détection de lumière (avant gauche/droite)    |
 | Résistances 10kΩ         | 2        | Pull-down pour les LDR                         |
